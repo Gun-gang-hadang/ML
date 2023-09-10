@@ -1,0 +1,42 @@
+[
+  {
+    "Code Name": "A020115XX_14477.jpg",
+    "Name": "bolippang",
+    "W": "0.185727355901189",
+    "H": "0.277777777777778",
+    "File Format": "jpg",
+    "Cat 1": "02",
+    "Cat 2": "01",
+    "Cat 3": "15",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.0933211344922232,0.861111111111111",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  },
+  {
+    "Code Name": "A020115XX_14477.jpg",
+    "Name": "bolippang",
+    "W": "0.480786825251601",
+    "H": "0.366255144032922",
+    "File Format": "jpg",
+    "Cat 1": "02",
+    "Cat 2": "01",
+    "Cat 3": "15",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.410567246111619,0.816872427983539",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  }
+]

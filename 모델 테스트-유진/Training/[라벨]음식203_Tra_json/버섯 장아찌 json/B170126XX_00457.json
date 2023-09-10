@@ -1,0 +1,42 @@
+[
+  {
+    "Code Name": "B170126XX_00457.jpg",
+    "Name": "beoseos_jang-ajji",
+    "W": "0.789989",
+    "H": "0.270063",
+    "File Format": "jpg",
+    "Cat 1": "17",
+    "Cat 2": "01",
+    "Cat 3": "26",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.490772,0.603087",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  },
+  {
+    "Code Name": "B170126XX_00457.jpg",
+    "Name": "beoseos_jang-ajji",
+    "W": "0.186432",
+    "H": "0.183644",
+    "File Format": "jpg",
+    "Cat 1": "17",
+    "Cat 2": "01",
+    "Cat 3": "26",
+    "Cat 4": "xx",
+    "Annotation Type": "binding",
+    "Point(x,y)": "0.690017,0.396296",
+    "Label": "0",
+    "Serving Size": "xx",
+    "Camera Angle": "xx",
+    "Cardinal Angle": "xx",
+    "Color of Container": "xx",
+    "Material of Container": "xx",
+    "Illuminance": "xx"
+  }
+]
