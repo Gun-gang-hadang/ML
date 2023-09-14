@@ -34,6 +34,8 @@ def predict_food():
         file_name.append(file)
         result.append(predict_food_category(image_dir + file))
     
+    for i in range(len(result)):
+        print(file_name[i] + " : , Predict : "+ str(result[i]))
     # 중복값 제거
     food_name = set(result)
     
